@@ -8,11 +8,11 @@
 		<version>2.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.demo_bank_v1</groupId>
-	<artifactId>DemoBank_v1</artifactId>
+	<groupId>home_savyy</groupId>
+	<artifactId>home_savyy</artifactId>
 <!--	<version>0.0.1-SNAPSHOT</version>-->
-	<name>DemoBank_v1</name>
-	<description>Easy Way Bank Application</description>
+	<name>home_savyy</name>
+	<description>Home Savyy Application</description>
 <!--	<packaging>war</packaging>-->
 	<packaging>jar</packaging>
 	<properties>
