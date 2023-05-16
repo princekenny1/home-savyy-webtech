@@ -1,4 +1,1 @@
-# DemoBankin-App-With-SpringBoot
-DemoBanking Application With SpringBoot: 
-Please remember to change the Database username and password to your own. 
-Also remeber to set your email config to which ever vendor of your choosing as in this project I used HMAILServer to setup emails.
+Home savyy app to track the home savyy for webtech class where users can create personalized accounts for various financial needs, including saving accounts for electricity bills, business accounts for side hustle ventures, and check accounts for everyday transactions.
