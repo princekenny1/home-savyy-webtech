@@ -1,10 +1,10 @@
-package com.demo_bank_v1;
+package com.home_savyy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoBankV1ApplicationTests {
+class HomeSavyyApplicationTests {
 
 	@Test
 	void contextLoads() {
